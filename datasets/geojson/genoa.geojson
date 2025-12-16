@@ -1,0 +1,569 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "23",
+        "name": "Albergo dei poveri",
+        "address": "p.le Brignole E.  2, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9290469, 44.4172076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "28",
+        "name": "Architettura - lotto P",
+        "address": "stradone di S.Agostino  37, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.931758, 44.405704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29",
+        "name": "Architettura - lotto Q",
+        "address": "via S.Croce  30, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9299443, 44.4043834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "42",
+        "name": "Balbi 2 - Palazzo Gio Francesco Balbi",
+        "address": "via Balbi 2, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9276964, 44.4141605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "30",
+        "name": "Balbi 4 - Palazzo Balbi Senarega Piovera",
+        "address": "via Balbi 4, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9273317, 44.4143445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "61",
+        "name": "Balbi 5 - Palazzo Sede dell'Università",
+        "address": "via Balbi 5, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9266209, 44.4148535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "Balbi 6 - Palazzo Raggio",
+        "address": "via Balbi 6, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9268067, 44.414616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "Chiesa di S.Salvatore",
+        "address": "p.za Sarzano  8, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.931731, 44.404104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "name": "Darsena Economia",
+        "address": "via Vivaldi  5, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.921691, 44.4143684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "name": "Edificio 1 - Monoblocco anatomico",
+        "address": "via De Toni  12, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9688435, 44.4069852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "32",
+        "name": "Edificio 10 - Scienze farmaceutiche",
+        "address": "v.le Benedetto XV  3, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9692411, 44.4067086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "name": "Edificio 11 (ex fisiologia)",
+        "address": "v.le Benedetto XV  3, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9692411, 44.4067086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "name": "Edificio 12 - Palazzo delle scienze",
+        "address": "c.so Europa  26, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9696151, 44.4057397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "54",
+        "name": "Edificio 14 (ex igiene)",
+        "address": "via Pastore  1, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9698806, 44.4066555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "44",
+        "name": "Edificio 16 - Clinica oculistica",
+        "address": "v.le Benedetto XV  9, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9692411, 44.4067086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "name": "Edificio 2 - Monoblocco chirurgico",
+        "address": "Via Antonio De Toni 16, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9690863, 44.406974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "name": "Edificio 3 - Clinica neurologica",
+        "address": "l.go Daneo P.  5, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.968211, 44.4073609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "name": "Edificio 5 (ex Dimi)",
+        "address": "v.le Benedetto XV  6, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.96784, 44.4067097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "name": "Edificio 6 - Polo didattico Alberti",
+        "address": "via Alberti L.B.  4, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9677264, 44.4065641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "name": "Edificio 7 (ex patologia generale)",
+        "address": "via Alberti L.B.  2, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9677264, 44.4065641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "name": "Edificio 8 - Palazzina delle scienze",
+        "address": "v.le Benedetto XV  5, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9692411, 44.4067086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57",
+        "name": "Edificio 9 (ex chimica generale)",
+        "address": "v.le Benedetto XV  3, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9692411, 44.4067086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "name": "Ex-Eridania - corpo A",
+        "address": "c.so Podestà A.  2, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9387256, 44.4035386]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "name": "Ex-Eridania - corpo B",
+        "address": "via Foscolo U.  6r, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.939223, 44.404653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "name": "Ex-Eridania - corpo C",
+        "address": "via Carcassi C.  5r, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9396707, 44.4072201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33",
+        "name": "Ex-sutter",
+        "address": "v.le Cembrano  4, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9855213, 44.3968143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "48",
+        "name": "Istituto G.Gaslini - padiglione 4",
+        "address": "l.go Gaslini G.  5, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9881964, 44.3914231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "104",
+        "name": "Istituto Nautico",
+        "address": "Calata Darsena SNC, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.922247, 44.413636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "25",
+        "name": "Opera Pia - padiglione A",
+        "address": "via alla Opera Pia  15, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.957489, 44.403554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "26",
+        "name": "Opera Pia - padiglione B",
+        "address": "via alla Opera Pia  15a, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.958045, 44.403789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "41",
+        "name": "Opera Pia - padiglione C (Ex CNR)",
+        "address": "via alla Opera Pia  11, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.958319, 44.403862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "name": "Opera Pia - padiglione D",
+        "address": "via alla Opera Pia  11a, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.958535, 44.404128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "37",
+        "name": "Opera Pia - padiglione E",
+        "address": "Via All'Opera Pia 13, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9584054, 44.4033925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "Opera Pia - padiglione G",
+        "address": "via alla Opera Pia  15a, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.958045, 44.403789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "name": "Ospedali S.Martino - pad. 01",
+        "address": "l.go Benzi R.  10, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9698122, 44.40717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "name": "Ospedali S.Martino - pad. 03",
+        "address": "l.go Benzi R.  10, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9698122, 44.40717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "Ospedali S.Martino - pad. 04",
+        "address": "l.go Benzi R.  10, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9698122, 44.40717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "45",
+        "name": "Ospedali S.Martino - pad. A",
+        "address": "l.go Benzi R.  10, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9698122, 44.40717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "68",
+        "name": "Palazzo Balbi 22",
+        "address": "via Balbi 22, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9248908, 44.4156385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "name": "Palazzo Serra",
+        "address": "p.za di S.Sabina 2, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9277046, 44.4132979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "name": "Polo didattico biomedico (ex Saiwa)",
+        "address": "c.so Gastaldi  161, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9660948, 44.4046166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "name": "Polo didattico delle Fontane",
+        "address": "via delle Fontane  10, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9274833, 44.4133794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "31",
+        "name": "Valletta Puggia - Chimica",
+        "address": "via Dodecaneso  31, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9710755, 44.4025063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "38",
+        "name": "Valletta Puggia - DIBRIS-DIMA",
+        "address": "via Dodecaneso  35, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9717311, 44.4024403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34",
+        "name": "Valletta Puggia - Fisica",
+        "address": "via Dodecaneso  33, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9716298, 44.4029406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "39",
+        "name": "Villa Cambiaso",
+        "address": "via Montallegro  1, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.9612283, 44.3996026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "24",
+        "name": "Villa Cambiaso - padiglioni",
+        "address": "v.le Cambiaso  6, GENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.963863, 44.3997665]
+      }
+    }
+  ]
+}

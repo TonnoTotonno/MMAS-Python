@@ -1,0 +1,14 @@
+[project]
+name = "MMAS"
+version = "0.1.0"
+description = "Max-Min Ant System implementation in Python with Numba"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "folium>=0.20.0",
+    "jupyterlab>=4.5.1",
+    "matplotlib>=3.10.8",
+    "numba>=0.63.1",
+    "numpy>=2.3.5",
+    "openrouteservice>=2.3.3",
+]
