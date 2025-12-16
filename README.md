@@ -28,7 +28,7 @@ The core algorithm is accelerated using **Numba** to ensure computational effici
 * `datasets/`: Directory for TSPLIB instances and GeoJSON data.
 * `main.py`: Entry point for executing the solver.
 
-##Installation
+## Installation
 
 This project requires **Python 3.12+**.
 
