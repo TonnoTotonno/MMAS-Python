@@ -1,8 +1,12 @@
-# Max-Min Ant System (MMAS) for TSPThis project implements a high-performance Max-Min Ant System (MMAS) solver for the Traveling Salesperson Problem (TSP). It is designed to handle both standard academic benchmarks (TSPLIB) and real-world road network optimization via OSRM.
+# Max-Min Ant System (MMAS) for TSP
+
+This project implements a high-performance Max-Min Ant System (MMAS) solver for the Traveling Salesperson Problem (TSP). It is designed to handle both standard academic benchmarks (TSPLIB) and real-world road network optimization via OSRM.
 
 The core algorithm is accelerated using **Numba** to ensure computational efficiency, making it capable of solving complex instances quickly.
 
-## Key Features* **Algorithm:** Max-Min Ant System (MMAS) with `min_max` pheromone clamping.
+## Key Features
+
+**Algorithm:** Max-Min Ant System (MMAS) with `min_max` pheromone clamping.
 
 * **Performance:** Critical paths (distance calculation, roulette selection, pheromone updates) are JIT-compiled using **Numba** (parallel/fastmath enabled).
 * **Local Search:** Implements 2-opt local search heuristic to refine solutions.
@@ -46,7 +50,9 @@ uv sync
 
 ```
 
-## UsageTo run the solver, execute the main script:
+## Usage
+
+To run the solver, execute the main script:
 
 ```bash
 uv run python main.py
