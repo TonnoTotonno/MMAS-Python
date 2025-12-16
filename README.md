@@ -17,7 +17,9 @@ The core algorithm is accelerated using **Numba** to ensure computational effici
 
 * **Real-World Routing:** Integrates with OSRM (Open Source Routing Machine) to calculate duration matrices for actual street networks.
 
-## Project Structure* `mmas/`: Core package containing the source code.
+## Project Structure
+
+* `mmas/`: Core package containing the source code.
 * `algo.py`: Implementation of the MMAS algorithm, Numba kernels, and `Hyperparameters` configuration.
 * `parser.py`: Utilities for parsing TSPLIB files and loading optimal solutions.
 * `utilities.py`: Tools for OSRM API interaction (Table and Route services).
