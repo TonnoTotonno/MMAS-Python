@@ -81,11 +81,10 @@ def _roulette_from_candidates(
     choice_info: np.ndarray
 ) -> int:
     """
-    Selects the next city from a list of candidates using roulette wheel selection.
-    
-    Optimization:
-    - Uses a two-pass approach (sum then select) to avoid memory allocations.
-    - Zero temporary arrays created (avoids GC overhead).
+    Selects the next city using roulette wheel selection.
+
+    Optimized to avoid temporary array allocations and fancy indexing,
+    improving cache locality and hot-loop performance.
     """
     m = candidates.size
     sum_w = 0.0
@@ -338,10 +337,7 @@ def local_search_swap(tour: np.ndarray, dist: np.ndarray, max_passes: int = 10) 
                     tour[j] = u
                     current_len += delta
                     improved = True
-                    # Optimization: Don't break immediately. 
-                    # Finish the inner loop scan to find more non-conflicting swaps 
-                    # before restarting. This is much faster for Numba.
-                    # (We only break if we really want strict First Improvement)
+                    # First Improvement break
                     break 
             
             if improved: 
